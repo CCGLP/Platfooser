@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="24" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="walls1_0" tilewidth="32" tileheight="32">
+  <image source="../images/walls1_0.png" width="448" height="512"/>
+  <tile id="30">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="mala" value=""/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="mala" value=""/>
+   </properties>
+  </tile>
+  <tile id="114">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Fondo" width="100" height="24" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJztmMsRwiAQhunEx91HBxZiBZypRBuIpYoHR5JZYAUWFtjDN46GQPJ/rJAYpZQRWHETWCA+eCE+ePFxoR0n7qcBvovDej62mUN+3N9SxpI1C+8Dyh9ykJon5EO8/NhZ9hUzkfoIc7KcibJJ3XOH6sZXq1Cb1Gugen7wZey73tZzQ1g7yTkX4/Wu1uvU93zNIANOUNdHrG/tOAnt7VrnxMlHzvsVbPuYi1mc/LMmpfaLGQ/bZ+u8aviguvdt1rmeR/fxsDwjWZbc81HNnVFYLK+O8oKeVXw16GsTmjPYOYU5HsslNHYvPmZAfPBCfPCitI8ZoHJxsBwr++8dSh8Xy5XBPfZEaR81629EavwfvgEKSKJT
+  </data>
+ </layer>
+</map>

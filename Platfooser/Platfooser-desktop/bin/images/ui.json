@@ -1,0 +1,13 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	play: { down: play, up: play },
+	options: { down: options, up: options},
+	about : {down: about, up: about}
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	logo: { drawable: title },
+	moon: { drawable: moon},
+	title: {drawable: moonwind},
+	},
+	}

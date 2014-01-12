@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="24" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="walls1_0" tilewidth="32" tileheight="32">
+  <image source="../images/walls1_0.png" width="448" height="512"/>
+  <tile id="30">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="mala" value=""/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="mala" value=""/>
+   </properties>
+  </tile>
+  <tile id="58">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Fondo" width="100" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzt10kKgDAQBdHcxGntsPf+97IPEERD2v6NtXggokRSEZKzlHJCygIJ9NDi2SPD/6f2bb3m6+nc156rvdPr3t117Tui10/0+Ioiu7SMq7COlOcn03gZfbX+BjPSo6mLx5ytZquMw1nlfZuosyA9/DvTQwc9tNBDCz200EPHZGZ6yNjN0dCjx57ac/+enXd3zpUAAOBvLu0IY4Q=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="500" height="24" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="walls1_0" tilewidth="32" tileheight="32">
+  <image source="../images/walls1_0.png" width="448" height="512"/>
+  <tile id="30">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="58">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Fondo" width="500" height="24" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJztmk1y5CAMRr2bE3idqfI6uYDvf6/JYrqKEEkIEGC73+KVuz2gH4z1oc6c27btjRwdc2dwTIzx6msB7815EVavw1VhfSCC1j0UoZWH006rn1l6fkctPzb/+t+FPKcn5XZX7voMTuXzDH8ArbTso5p6aY07sqvlw1MTtHrunevx3WLfMz6/Z+XiiceKSbOxei/2IuWPrq+HtS+DnkMEZ3JNOYR7veNePtMaq82V9EmzvRs+S/W8N0dPbNZapGsiffdqd4+eS/49jKjTPTZLeo6urOFu6y5p62i9Rc8hgjO7pnXvzD6n947tp9ZJ9rSaKmm0ZEcat2/63rfma/Vc0+Q0JilO7zlGitejp1rM1lyvZmnnidq6W3uO8Phq1d7eMw5s28c3f5OrNKb197zVudUy++/+6DlEkGtObU8q9cjSXK2uSnq6J9/TazpH853nIJ0p8vwPwa50ZtH+3cpfi7dXzz19u/bMLS1t2UMRviV7vTFIvfrq9+3KfH7zlVyj7LLuZdBziKDUd1v3pJopjduVsa/xf/6T67nkL481t7ULY3L/qQ/pPToE/9LvCJqel/rz1Ef6XYuhdD9Sz3tqr7TeXt+t4/Lx1n5DV2xae9KIM9y7g55DBKXfiS2dlmq31dtr/qVxlnaX+vPX/JKOWmP27Xc+0hyvnms5WnZr9dzzvK2xlgbXYNmMiNMaXxMbtKGd66176Xzpneu59wSemhfMJd9HWg301OyemunpN0u2PRrnsWf5tWx64tLmSGtaWhev/1Isue3WvWSteWusaPD1qD3fRT7Dp+reU/OCuXj2kbfH6n1ve2uCd45Hf2v0vJS7psnWfO0c5TlPlXJvmVe7R3qej9cerCF9NtYeQs/JC+YSqeejqPU3oo70xt/6m4BHA2v1PELHe+bP7ukglqvoecRn7fr6PEtn0XOIoLSPVtfW0T3juxG1Jqzt++LR8yeezUbqO3oOEaDn0Lq2q2OAdc9+VX++mlGajp5DBPn/vQaweGrvBTE8uT8fyXmBGOD+jKj5q3OCcVCbwQI9b4O6CRGg57B6vwDA+ncbAAD6oIcFgCj4XQwAAOD+8PcuAACA+4OeAwAAAAAAAAAAAAAAAAAAAAAAwN35Bxz3ZSk=
+  </data>
+ </layer>
+</map>

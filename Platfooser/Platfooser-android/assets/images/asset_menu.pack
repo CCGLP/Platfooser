@@ -1,0 +1,47 @@
+
+asset_menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+moon
+  rotate: false
+  xy: 1, 123
+  size: 873, 835
+  orig: 873, 835
+  offset: 0, 0
+  index: -1
+moonwind
+  rotate: false
+  xy: 1, 1
+  size: 1298, 120
+  orig: 1298, 120
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 876, 839
+  size: 783, 119
+  orig: 783, 119
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 876, 479
+  size: 372, 358
+  orig: 372, 358
+  offset: 0, 0
+  index: -1
+about
+  rotate: false
+  xy: 876, 263
+  size: 338, 214
+  orig: 338, 214
+  offset: 0, 0
+  index: -1
+options
+  rotate: false
+  xy: 1250, 623
+  size: 338, 214
+  orig: 338, 214
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="24" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="walls1_0" tilewidth="32" tileheight="32">
+  <image source="../images/walls1_0.png" width="448" height="512"/>
+  <tile id="30">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="mala" value=""/>
+   </properties>
+  </tile>
+  <tile id="44">
+   <properties>
+    <property name="buena" value=""/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="mala" value=""/>
+   </properties>
+  </tile>
+  <tile id="170">
+   <properties>
+    <property name="colision" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Fondo" width="200" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztmUsOwjAMRHMTPns+d+MonIB1L0k3laBqGqeJY481i5ECEu08f1onTCmliaKorN7g0uSKEiOKuUfWx4EH6l/sDx+x7pGH3Luzdp37vOWv5l2NWGuePLfkdL2WzJOjua36ozbeuWuV/B/14VnoDHs5lny/lftl/fpR7tkpvd9ezew992v2j639UfJRwxzlneLBn/b9rfm0/Nf0zwhZx0kr9lHZSvWl9btR/j3VZk8P3rhy80RudtFYe81daa6w9O+tjqw9aHFFZdPInUWsEPIzYka2qFXJ3gtdvbkscmQdwwgea3WadU42Mw9zF8u/tUeN84LbrPvGtaxZkXI3IlYI+UDwKOUo9VoUVm0ehPOFCHG2ZtriisSKzoLiH8Xn4lUyi7E//NcASi4inoXuMUVh5fkVvbbwsD98C8k/klcpT2n+svboOWc8v8L1KuU5sj9BEs+v8GNtyVNiQmfm/oNeW3gkTMjcGt5HxOMy6woQ+97/W3tRbfxR2Xuf746qhcesJ0DcI/bGOv6UXLleoWLqC4T9Ae4=
+  </data>
+ </layer>
+</map>
